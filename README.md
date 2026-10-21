@@ -11,4 +11,6 @@
 | # | What I changed | Commit message | Branch |
 |---|----------------|----------------|--------|
 | 1 | Created my first page | Add first page | main |
-| 2 | ... | ... | main |
+| 2 | Added the code to index and added readme | Updated index and added README | main |
+| 3 | Updated README.md | Updated README | main |
+| 4 | ... |  ... | ... |
