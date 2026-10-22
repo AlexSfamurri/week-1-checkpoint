@@ -14,4 +14,5 @@
 | 2 | Added the code to index and added readme | Updated index and added README | main |
 | 3 | Updated README.md | Updated README | main |
 | 4 | replaced html with html from codex | updated the html | main |
-| 5 | ... |  ... | ... |
+| 5 | Add list of things I like | Add list of things I like | main |
+| 6 | ... |  ... | ... |
