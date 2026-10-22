@@ -15,4 +15,5 @@
 | 3 | Updated README.md | Updated README | main |
 | 4 | replaced html with html from codex | updated the html | main |
 | 5 | Add list of things I like | Add list of things I like | main |
-| 6 | ... |  ... | ... |
+| 6 | Added my goals | Add my goals section | main |
+| 7 | ... |  ... | ... |
