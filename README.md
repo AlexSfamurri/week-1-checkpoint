@@ -21,4 +21,5 @@ https://alexsfamurri.github.io/week-1-checkpoint/
 | 6 | Added my goals | Add my goals section | main |
 | 7 | added a link to the youtube play list i listen to when programming | added a link | main |
 | 8 | added a picture of my favorite lock pick | added a picture of my favorite lock pick | main |
-| 9 | ... |  ... | ... |
+| 9 | Add live site link to README | Add live site link to README | main |
+| 10 | ... | ... | ... |
