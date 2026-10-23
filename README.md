@@ -1,5 +1,8 @@
 # Week 1 Checkpoint
 
+## Live Link
+https://alexsfamurri.github.io/week-1-checkpoint/
+
 ## My setup
 - Operating system: Windows
 - Editor: VS Code
@@ -16,4 +19,6 @@
 | 4 | replaced html with html from codex | updated the html | main |
 | 5 | Add list of things I like | Add list of things I like | main |
 | 6 | Added my goals | Add my goals section | main |
-| 7 | ... |  ... | ... |
+| 7 | added a link to the youtube play list i listen to when programming | added a link | main |
+| 8 | ... |  ... | ... |
+| 9 | ... |  ... | ... |
