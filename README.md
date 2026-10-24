@@ -23,4 +23,5 @@ https://alexsfamurri.github.io/week-1-checkpoint/
 | 8 | added a picture of my favorite lock pick | added a picture of my favorite lock pick | main |
 | 9 | Add live site link to README | Add live site link to README | main |
 | 10 | verified ACP log with git log | ACP Check | main |
-| 11 | ... | ... | ... |
+| 11 | added some css | added some css | main |
+| 12 | ... | ... | ... |
